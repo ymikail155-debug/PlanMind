@@ -1,0 +1,34 @@
+[
+  {
+    "id": "planner",
+    "name_tr": "Planlayıcı",
+    "name_en": "Planner",
+    "desc_tr": "Günlük/Haftalık plan",
+    "desc_en": "Daily/Weekly planner",
+    "is_premium": false
+  },
+  {
+    "id": "notes",
+    "name_tr": "Notlar",
+    "name_en": "Notes",
+    "desc_tr": "Mesleğe özel notlar",
+    "desc_en": "Profession-specific notes",
+    "is_premium": false
+  },
+  {
+    "id": "vehicle",
+    "name_tr": "Araç Yönetimi",
+    "name_en": "Vehicle Management",
+    "desc_tr": "Yakıt, bakım, masraf",
+    "desc_en": "Fuel, maintenance, costs",
+    "is_premium": true
+  },
+  {
+    "id": "social",
+    "name_tr": "Sosyal Medya",
+    "name_en": "Social Media",
+    "desc_tr": "İçerik planlama",
+    "desc_en": "Content planning",
+    "is_premium": true
+  }
+]

@@ -1,0 +1,1 @@
+PlanMind icon placeholder - replace with actual app icons in android/ios folders.

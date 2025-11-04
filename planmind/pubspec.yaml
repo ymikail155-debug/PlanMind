@@ -1,0 +1,30 @@
+name: planmind
+description: "PlanMind - Akıllı yaşam asistanın (TR/EN) - MVP reklamlı"
+publish_to: "none"
+version: 1.0.0+1
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.0.14
+  intl: ^0.19.0
+  flutter_localizations:
+    sdk: flutter
+  google_mobile_ads: ^2.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/lang/tr.json
+    - assets/lang/en.json
+    - assets/data/professions.json
+    - assets/data/modules.json

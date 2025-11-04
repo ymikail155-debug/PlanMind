@@ -1,0 +1,120 @@
+[
+  {
+    "id": "doctor",
+    "name_tr": "Doktor",
+    "name_en": "Doctor",
+    "desc_tr": "Tıbbi meslek",
+    "desc_en": "Medical profession",
+    "sub": [
+      "neurosurgeon",
+      "cardiologist",
+      "dentist"
+    ]
+  },
+  {
+    "id": "teacher",
+    "name_tr": "Öğretmen",
+    "name_en": "Teacher",
+    "desc_tr": "Eğitim sektörü",
+    "desc_en": "Education sector",
+    "sub": [
+      "primary",
+      "highschool",
+      "university"
+    ]
+  },
+  {
+    "id": "engineer",
+    "name_tr": "Mühendis",
+    "name_en": "Engineer",
+    "desc_tr": "Mühendislik",
+    "desc_en": "Engineering",
+    "sub": [
+      "civil",
+      "software",
+      "electrical"
+    ]
+  },
+  {
+    "id": "influencer",
+    "name_tr": "Influencer",
+    "name_en": "Influencer",
+    "desc_tr": "Sosyal medya içerik üreticisi",
+    "desc_en": "Social media content creator",
+    "sub": [
+      "youtuber",
+      "streamer",
+      "instagram"
+    ]
+  },
+  {
+    "id": "farmer",
+    "name_tr": "Çiftçi",
+    "name_en": "Farmer",
+    "desc_tr": "Tarım sektörü",
+    "desc_en": "Agriculture",
+    "sub": [
+      "greenhouse",
+      "livestock",
+      "beekeeping"
+    ]
+  },
+  {
+    "id": "driver",
+    "name_tr": "Şoför",
+    "name_en": "Driver",
+    "desc_tr": "Profesyonel sürücü",
+    "desc_en": "Professional driver",
+    "sub": [
+      "truck",
+      "taxi",
+      "personal"
+    ]
+  },
+  {
+    "id": "developer",
+    "name_tr": "Yazılımcı",
+    "name_en": "Developer",
+    "desc_tr": "Yazılım geliştirici",
+    "desc_en": "Software developer",
+    "sub": [
+      "mobile",
+      "backend",
+      "frontend"
+    ]
+  },
+  {
+    "id": "accountant",
+    "name_tr": "Muhasebeci",
+    "name_en": "Accountant",
+    "desc_tr": "Finans ve muhasebe",
+    "desc_en": "Finance and accounting",
+    "sub": [
+      "tax",
+      "auditor"
+    ]
+  },
+  {
+    "id": "student",
+    "name_tr": "Öğrenci",
+    "name_en": "Student",
+    "desc_tr": "Öğrenci",
+    "desc_en": "Student",
+    "sub": [
+      "highschool",
+      "university"
+    ]
+  },
+  {
+    "id": "athlete",
+    "name_tr": "Sporcu",
+    "name_en": "Athlete",
+    "desc_tr": "Sporcu",
+    "desc_en": "Athlete",
+    "sub": [
+      "football",
+      "running",
+      "fitness"
+    ]
+  }
+]
